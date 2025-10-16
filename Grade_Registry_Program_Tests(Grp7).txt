@@ -1,0 +1,46 @@
+Group 7:
+Qusai Alotaiki
+Vitor de Oliveira Peixoto
+Millie Julianne Padua
+
+
+
+
+Grade Registry Program Tests:
+
+Test 1
+
+
+Welcome to the Grade Registry Program
+Would you like to add a new student? y(yes),n(no)
+yEs
+Enter the student's name:
+Sarah Gray
+Enter student GPA for each subject. Enter -1 to stop entering GPA.
+2.3
+4.0
+-1
+Would you like to add a new student? y(yes),n(no)
+Ya
+Incorrect Input, please enter y(yes)/n(no).
+Would you like to add a new student? y(yes),n(no)
+Yes
+Enter the student's name:
+John Doe
+Enter student GPA for each subject. Enter -1 to stop entering GPA.
+3.2
+3.9
+2.5
+-1
+Would you like to add a new student? y(yes),n(no)
+YEs
+Enter the student's name:
+Steven Grant
+Enter student GPA for each subject. Enter -1 to stop entering GPA.
+-1
+Would you like to add a new student? y(yes),n(no)
+n
+This is the list of students in the system, and their corresponding accumulative GPA
+Sarah Gray 3.15
+John Doe 3.2
+Steven Grant 0
